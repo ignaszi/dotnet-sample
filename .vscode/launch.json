@@ -10,7 +10,7 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/MinimalSample/bin/Debug/net6.0/MinimalSample.dll",
+            "program": "${workspaceFolder}/MinimalSample/bin/Debug/net7.0/MinimalSample.dll",
             "args": [],
             "cwd": "${workspaceFolder}/MinimalSample",
             "stopAtEntry": false,
